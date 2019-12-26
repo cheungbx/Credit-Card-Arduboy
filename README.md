@@ -3,7 +3,7 @@ Credit Card Arduboy with flashcart
 by : chuengbx   2019/12/24
  
 This is a Credit Card arduboy that made using a real credit card. smaller than half  of a credit card. 
- 
+![picture1](CreditCardArduboy.jpg)
 Parts:
 Arduino Pro Micro (or Arduino Micro)
 0.9" mono  OLED with SPI interface on SSD1306 controller. The 7 pin male header of the OLED is plugged into the female header.
