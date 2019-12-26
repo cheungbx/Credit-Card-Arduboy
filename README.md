@@ -25,6 +25,7 @@ the VCC of the OLED and the  serial flash.
 To use the serial flash for game loading, the Cathy 3K boot loader must be burnt to the Pro Micro using USBasp.
 ![picture1](creditcardadruboy.JPG)
 ![picture2](creditcardadruboy1.JPG) 
+![picture3](back.JPG)
 Credits and References to original authors of Arduboy and Flashcart:
  
 1. Original Arduboy production schametics:  
