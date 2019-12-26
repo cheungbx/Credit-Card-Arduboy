@@ -3,8 +3,13 @@ Credit Card Arduboy with flashcart
 by : chuengbx   2019/12/24
  
 This is a Credit Card arduboy that made using a real credit card. smaller than half  of a credit card. 
-![picture1](creditcardadruboy.JPG)
-![picture2](creditcardadruboy1.JPG)
+
+
+
+Demonstration video.
+https://youtu.be/lke5r84xj-M
+
+[![Game8266%20Video](youtube1.JPG)](https://youtu.be/lke5r84xj-M)
 
 Parts:
 Arduino Pro Micro (or Arduino Micro)
@@ -18,7 +23,8 @@ To allow the board to be powerd off during charging, the onboard regulator need 
 3.7V LiPO Battery is charged by the battery management module that provide charging at 4.2V that also supply  4.2V  to the VCC pin of the Arduino Pro Micro, 
 the VCC of the OLED and the  serial flash. 
 To use the serial flash for game loading, the Cathy 3K boot loader must be burnt to the Pro Micro using USBasp.
- 
+![picture1](creditcardadruboy.JPG)
+![picture2](creditcardadruboy1.JPG) 
 Credits and References to original authors of Arduboy and Flashcart:
  
 1. Original Arduboy production schametics:  
