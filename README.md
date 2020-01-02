@@ -9,11 +9,11 @@ This is a Credit Card arduboy that made using a real credit card. smaller than h
 Demonstration video.
 https://youtu.be/lke5r84xj-M
 
-[![Game8266%20Video](youtube1.JPG)](https://youtu.be/lke5r84xj-M)
+[![Arudboy%20Video](youtube1.JPG)](https://youtu.be/lke5r84xj-M)
 
 Parts:
 Arduino Pro Micro (or Arduino Micro)
-0.9" mono  OLED with SPI interface on SSD1306 controller. The 7 pin male header of the OLED is plugged into the female header.
+1.3" mono  OLED with SPI interface on SSD1306 controller. The 7 pin male header of the OLED is plugged into the female header.
 The OLED chosen must have the 7th pin for CS. Otherwise, it'll conflict with the Flahcart,
 causing screen flickering and misalignment when loading games from flashcart or when playing  video stored on the flashcart
 16MB serial flash to  load 500+ Arudboy games to be self-programmed to Arduino Micro anytime through the Cathy 3K bootloader
